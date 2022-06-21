@@ -1,0 +1,72 @@
+body {
+	background-color: #f8f7f7;
+	margin: 10px;
+}
+
+
+h2 {
+	font-size: 50px;
+	color: #da5a39;
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 90px;
+	color: #da5a39;
+	text-align: center;
+}
+
+.box {
+	width: 300px;
+	float: left;
+	margin-right: 24px;
+}
+
+.ibr-cell {
+	width: 300px;
+}
+
+.centralizado {
+	margin: auto;
+	width: auto;
+	padding: 10px;
+}
+.centralizado .headerT {
+	padding-right: 600px;
+}
+
+.centralizado .telefone {
+	font-size: 15px; 
+	margin: auto;
+}
+.centralizado .clearfix {
+	padding-top: 10px;
+	width: 500px;
+	padding-bottom: 20px; 
+	
+
+}
+.centralizado .sobrenós {
+	padding-top: 80px;
+}
+.centralizado .ibr-cell {
+	width: fit-content;
+	border-radius: 12px;
+}
+.centralizado .google {
+	width: fit-content
+}
+.centralizado .ibr-cell {
+	border-radius: 20px;
+}
+.centralizado .google {
+	width: 200px;
+	
+
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+
+}
