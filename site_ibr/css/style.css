@@ -38,6 +38,12 @@ h2 {
 	margin: auto;
 }
 
+@media screen and (max-width: 600px) {
+	.centralizado .divFooter {
+	font-size: 13px;
+	margin: auto;
+	}
+}
 
 .centralizado .clearfix {
 	padding-top: 10px;
