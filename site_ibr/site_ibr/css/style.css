@@ -1,7 +1,8 @@
 body {
 	background-image: url(../img/bazar-solidario-abre-20210722160256.jpg);
+	background-repeat: no-repeat;
 	background-position: center;
-	background-size:cover;
+	background-size: cover;
 	
 
 }
@@ -11,7 +12,7 @@ h2 {
 	font-size: 30px;
 	color: #426153;
 	text-align: center;
-	font-family: 'Montserrat', sans-serif;
+	font-family: futura;
 	font-weight: bold;
 
 }
@@ -39,13 +40,6 @@ h2 {
 }
 
 
-@media screen and (max-width: 600px) {
-	.centralizado .divFooter {
-	font-size: 13px;
-	margin: auto;
-	}
-}
-
 .centralizado .clearfix {
 	padding-top: 10px;
 	width: 500px;
@@ -56,7 +50,7 @@ h2 {
 
 .centralizado .sobrenos {
 	padding: 40px 0px 40px 0px;
-	font-family: 'Montserrat', sans-serif;
+	font-family: futura;
 
 
 }
@@ -89,24 +83,11 @@ img {
 	background-color:#db593a;
 	font-size: 13px;
 	letter-spacing: 0.5px;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: bold;
-	color:#eae5df;
-	margin: auto;
-}
-  
- .parceiros {
-	margin-top: 5%;
-	text-align: center;
-}
-.centralizado .pa {
-	margin: auto;
-	vertical-align: auto;
-	max-width: 13%;
-	
-	
-}
+	font-family: futura;
+	color:#426153;
+	margin-top: 50px;
 
+}
 
 .blocoTransparenteSobreNos {
 	color: #426153;
