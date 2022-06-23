@@ -38,6 +38,7 @@ h2 {
 	margin: auto;
 }
 
+
 @media screen and (max-width: 600px) {
 	.centralizado .divFooter {
 	font-size: 13px;
@@ -91,9 +92,20 @@ img {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
 	color:#426153;
-	margin-top: 50px;
+	
 	
     
+}
+ .parceiros {
+	margin-top: 5%;
+	text-align: center;
+}
+.centralizado .pa {
+	margin: auto;
+	vertical-align: auto;
+	max-width: 13%;
+	
+	
 }
 
 
